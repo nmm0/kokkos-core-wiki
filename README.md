@@ -22,7 +22,7 @@ make latexpdf
 
 ## View the HTML Documentation Locally
 
-You can view the html documentation locally by navigating to `build/html` after runnning `make html`, and running the python http server: `python3 -m http.server`. Then, in your web browser, navigate to [](http://localhost:8000).
+You can view the html documentation locally by navigating to `build/html` after runnning `make html`, and running the python http server: `python3 -m http.server`. Then, in your web browser, navigate to [http://localhost:8000](http://localhost:8000).
 
 ## Documentation Writing Reference
 
